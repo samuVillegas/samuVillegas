@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Villegas</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps, AI**
 
 - 📫 How to reach me **villegassamuel25@gmail.com**
 
